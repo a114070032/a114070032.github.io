@@ -1,0 +1,56 @@
+.timcenter{
+    text-align: center;
+    color: white;
+    background-color: rgb(5 26 184) ;
+}
+.timhappy{
+    background-color: #7f78f6;
+    padding: 20px 30px;
+    border-radius: 15px;
+    color: white;
+    margin: 0 auto;
+    width: 80%;
+    height: 100px;
+    overflow: auto;
+}
+.centercenter{
+    text-align: center;
+}
+.timlink{
+    color: blue;
+    padding: 0 30px;
+    border-radius: 40px;
+    background-color: aqua;
+}
+a.timlink:hover{
+    background-color: blue;
+    color: white;
+}
+.timbig{
+    font-size: 20px;
+    font-weight: 800;
+}
+.timgo{
+    font-size: 50px;
+    text-align: center;
+}
+section#about {
+    background-color: rgb(117, 23, 133) !important;
+    background-image: url("../assets/img/ocen.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section#about h1{
+    color: white;
+}
+section#about div{
+    color: white;
+}
+section#callme {
+    background-color: rgb(5 26 184) !important;
+}
+section#callme h2{
+    color: white;
+}
