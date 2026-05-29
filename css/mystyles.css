@@ -11,6 +11,10 @@
     margin: 0 auto;
     width: 80%;
     height: 100;
+    font-family: "Noto Serif TC", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
 .centercenter{
     text-align: center;
