@@ -10,8 +10,7 @@
     color: white;
     margin: 0 auto;
     width: 80%;
-    height: 100px;
-    overflow: auto;
+    height: 100;
 }
 .centercenter{
     text-align: center;
@@ -20,7 +19,7 @@
     color: blue;
     padding: 0 30px;
     border-radius: 40px;
-    background-color: aqua;
+    background-color: rgb(198 214 255);
 }
 a.timlink:hover{
     background-color: blue;
