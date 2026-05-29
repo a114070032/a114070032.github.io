@@ -4857,8 +4857,8 @@ textarea.form-control-lg {
 .list-group-item.active {
   z-index: 2;
   color: var(--bs-list-group-active-color);
-  background-color: rgb(53 41 94) ;
-  border-color: #7f78f6;
+  background-color: #6f4e37 ;
+  border-color: #c9a98a;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
