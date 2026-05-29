@@ -247,7 +247,7 @@ sup {
 }
 
 a {
-  color: #051074;
+  color: #ca9a6c;
   text-decoration: underline;
 }
 a:hover {
@@ -1796,7 +1796,7 @@ progress {
 }
 
 .table-striped > tbody > tr:nth-of-type(odd) > * {
-  --bs-table-accent-bg: #eff3ff;
+  --bs-table-accent-bg: #f6eee6;
   color: var(--bs-table-striped-color);
 }
 
@@ -8128,7 +8128,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgb(5 26 184) !important;
+  background-color: rgb(107 78 61) !important;
 }
 
 .bg-secondary {
@@ -10927,7 +10927,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #7f78f6;
+  background-color: #c2a289;
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
