@@ -4862,6 +4862,7 @@ textarea.form-control-lg {
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
+  background-color: #fff7eb;
 }
 .list-group-item + .list-group-item.active {
   margin-top: calc(-1 * var(--bs-list-group-border-width));

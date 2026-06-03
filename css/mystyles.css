@@ -33,6 +33,7 @@ a.timlink:hover{
 .timbig{
     font-size: 20px;
     font-weight: 800;
+    width: 100% !important;
 }
 .timgo{
     font-size: 50px;
