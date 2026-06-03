@@ -52,7 +52,12 @@ section#about div{
     color: white;
 }
 section#callme {
-    background-color: rgb(107 78 61) !important;
+    background:
+    linear-gradient(rgba(107,78,61,0.7), rgba(107,78,61,0.7)),url("../assets/img/leave.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 section#callme h2{
     color: white;
